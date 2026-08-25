@@ -1,0 +1,3 @@
+cloud_status
+*.o
+.env
